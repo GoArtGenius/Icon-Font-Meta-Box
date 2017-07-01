@@ -2,9 +2,9 @@
 /*
  * Plugin Name: Icon Font Meta Box
  * Description: Adds a metabox with a field where you can select a icons from a icomoon icon font.
- * Plugin URI: http://enginne.com/plugins/icon-font-meta-box/
- * Author: Alex Costa
- * Author URI: http://enginne.com/
+ * Plugin URI: http://artgeni.us/
+ * Author: ArtGenius
+ * Author URI: http://artgeni.us/
  * Version: 1.0
  * License: GPL2
  * Text Domain: ifmb_text_domain
