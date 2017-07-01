@@ -1,7 +1,6 @@
 # Icon Font Meta Box
 
 
----
 
 
 
@@ -9,12 +8,9 @@
 
 
 
----
-
 
 ### Based on Font Awesome Field by tormorten
 ##### https://github.com/tormjens/font-awesome-field
-\
 \
 \
 ### Description
