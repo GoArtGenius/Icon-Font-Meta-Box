@@ -3,7 +3,11 @@
 
 
 
-# STILL UNDER HEAVY DEVELOPMENT - NOT TO USE N PRODUCTION SITES!
+
+
+## STILL UNDER HEAVY DEVELOPMENT - NOT TO USE IN PRODUCTION SITES!
+
+
 
 
 
@@ -14,7 +18,8 @@
 
 
 
-== Description ==
+
+### Description
 
 
 Adds a icon font chooser to your post with this awesome standalone custom metabox.
@@ -28,7 +33,7 @@ A handy Icon font shortcode is also included. Add an icon to your post by insert
 
 
 
-== Installation ==
+### Installation
 
 1. Upload "font-awesome-field" to the "/wp-content/plugins" directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
@@ -39,7 +44,7 @@ A handy Icon font shortcode is also included. Add an icon to your post by insert
 
 
 
-== Changelog ==
+### Changelog
 
 = 1.0 =
 
@@ -48,5 +53,8 @@ A handy Icon font shortcode is also included. Add an icon to your post by insert
 
 
 
+---
+
 License: GPLv2 or later
+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
